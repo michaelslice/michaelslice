@@ -1,4 +1,4 @@
--👋 Hi, I'm Michael
+- 👋 Hi, I'm Michael
 - 📫 How to reach me: email mjsens@gmail.com
 
 <!--
