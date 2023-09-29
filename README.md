@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Michael
-- 📫 How to reach me: email mjsens@gmail.com
+- 📫 How to reach me: email mjsens523@gmail.com
 
 <!--
 **michaelslice/michaelslice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
