@@ -2,9 +2,9 @@
 
 ⚡ Work experience: <br>
 - Software Engineer intern at Broadcom.
-- Software Engineer intern at NIU Center for Research and Compute.
-- Research Assistant for NIU Department of Engineering.
-- Research Assistant for NIU Department of Computer Science.
+- Software Engineer intern at NIU Center for Research Computing and Data.
+- Research Assistant at the NIU Department of Engineering.
+- Research Assistant at the NIU Department of Computer Science.
 
 🌱 Interests:
 - C++, Operating Systems, and Computer Architecture
